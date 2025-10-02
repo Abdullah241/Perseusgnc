@@ -1,12 +1,12 @@
-#Perseus GNC (Guidance, Navigation, and Control)
+# Perseus GNC (Guidance, Navigation, and Control)
 
 Welcome to the Perseus GNC repository! This project serves as the central hub for managing flight control simulations, algorithms, and documentation for the Perseus drone/autonomous vehicle team. We're still in the early stages, and this is a work in progress—but we're actively building here!
 
-##🚧 Work in Progress
+## 🚧 Work in Progress
 
 This repository is under active development. We’re iterating on our Guidance, Navigation, and Control (GNC) systems, including Simulink models, scripts, and supporting docs. Expect frequent updates as we refine our work.
 
-##🤝 Collaboration & Workflow
+## 🤝 Collaboration & Workflow
 
 
 
@@ -44,7 +44,7 @@ Use issues for bugs/tasks (e.g., label as "bug", "enhancement", or "flight-test"
 
 For large files like Simulink models (>100MB), use Git LFS: Install via git lfs install, then git lfs track "*.slx".
 
-##📚 Sharing Documentation
+## 📚 Sharing Documentation
 
 
 
@@ -60,7 +60,7 @@ Prefer Markdown (.md) files for text or PDF for detailed reports. Example: /docs
 
 Update the README with key links or summaries as the project grows.
 
-##🌐 Uploading to GitHub
+## 🌐 Uploading to GitHub
 
 
 
