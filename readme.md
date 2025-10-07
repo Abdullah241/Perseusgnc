@@ -6,7 +6,7 @@ Welcome to the Perseus GNC repository! This project serves as the central hub fo
 
 This repository is under active development. We’re iterating on our Guidance, Navigation, and Control (GNC) systems, including Simulink models, scripts, and supporting docs. Expect frequent updates as we refine our work.
 
-## 🤝 Collaboration & Workflow
+## 🤝 Collaboration \& Workflow
 
 
 
@@ -42,7 +42,7 @@ Use issues for bugs/tasks (e.g., label as "bug", "enhancement", or "flight-test"
 
 
 
-For large files like Simulink models (>100MB), use Git LFS: Install via git lfs install, then git lfs track "*.slx".
+For large files like Simulink models (>100MB), use Git LFS: Install via git lfs install, then git lfs track "\*.slx".
 
 ## 📚 Sharing Documentation
 
@@ -54,7 +54,7 @@ Upload all relevant documentation (e.g., design specs, flight logs, or Simulink 
 
 
 
-Prefer Markdown (.md) files for text or PDF for detailed reports. Example: /docs/flight_log.md or /docs/control_design.pdf.
+Prefer Markdown (.md) files for text or PDF for detailed reports. Example: /docs/flight\_log.md or /docs/control\_design.pdf.
 
 
 
@@ -70,17 +70,17 @@ Add Files: Use the web interface (Add file > Upload files) or clone locally (git
 
 
 
-Large Files: For Simulink models (.slx) or large datasets, enable Git LFS (git lfs install, git lfs track "*.slx") to handle files over 100MB.
+Large Files: For Simulink models (.slx) or large datasets, enable Git LFS (git lfs install, git lfs track "\*.slx") to handle files over 100MB.
 
 
 
 Structure: Organize files in folders like /simulink/, /src/, and /docs/ to keep things tidy.
 
-##📋 Project Structure (Initial)
+\##📋 Project Structure (Initial)
 
 Perseusgnc/
 ├── README.md              # This file
-├── simulink/              # Simulink models (e.g., Roll_Simulinkpers.slx)
+├── simulink/              # Simulink models (e.g., Roll\_Simulinkpers.slx)
 │   ├── control/
 │   ├── estimation/
 │   └── tests/
@@ -88,7 +88,7 @@ Perseusgnc/
 ├── docs/                  # Documentation
 └── .gitignore             # Ignore temporary files
 
-##🛠️ Getting Started
+\##🛠️ Getting Started
 
 
 
@@ -108,7 +108,9 @@ Contribute: Fork, branch, and submit PRs. Contact @Abdullah24 for access.
 
 👥 Team
 
+&nbsp;
 
+cool stuff let's see if it works
 
 
 
@@ -119,3 +121,4 @@ Contribute: Fork, branch, and submit PRs. Contact @Abdullah24 for access.
 Add your teammates here!
 
 Questions? Open an issue or ping in #flight-control Slack/Discord.
+
